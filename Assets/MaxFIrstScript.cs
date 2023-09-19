@@ -7,7 +7,7 @@ public class MaxFIrstScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Repo2");
     }
 
     // Update is called once per frame
